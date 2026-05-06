@@ -136,7 +136,6 @@ class GoogleSignInPageState extends State<GoogleSignInPage> {
                     ],
                   ),
           ),
-          // Copyright at the bottom
           Positioned(
             bottom: 16,
             left: 0,
